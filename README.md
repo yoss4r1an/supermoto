@@ -1,2 +1,2 @@
 # supermoto
-Supermoto landing page.
+Supermoto landing page applying basic CSS styling.
